@@ -1,4 +1,4 @@
-﻿Feature: Journey Planner
+﻿Feature: Journey Planner - To verify the journey planner app on the Tf
 
 
 Scenario: Valid journey
